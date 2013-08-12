@@ -1,0 +1,43 @@
+{
+    "files":
+    {
+        ".gitignore": "https://raw.github.com/kgryte/gitignore/master/.gitignore",
+        "angular.js (mvc)": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js",
+        "backbone-nested.js (mvc)": "http://cloud.github.com/downloads/afeld/backbone-nested/backbone-nested-v1.1.2.min.js",
+        "backbone.js (mvc)": "http://backbonejs.org/backbone-min.js",
+        "chardin.js (overlays)": "https://raw.github.com/tuupola/jquery_lazyload/master/jquery.lazyload.min.js",
+        "d3.geo.projection.js (extended maps)": "http://d3js.org/d3.geo.projection.v0.min.js",
+        "d3.js (data viz)": "https://raw.github.com/mbostock/d3/master/d3.min.js",
+        "dat.gui.js (ui)": "http://dat-gui.googlecode.com/git/build/dat.gui.min.js",
+        "deck.js (presentations)": "https://github.com/imakewebthings/deck.js/zipball/stable",
+        "ember.js (mvc)": "http://builds.emberjs.com/ember-1.0.0-rc.5.min.js",
+        "enquire.js (responsive design)": "https://raw.github.com/WickyNilliams/enquire.js/master/dist/enquire.min.js",
+        "head.js (script loading)": "https://raw.github.com/headjs/headjs/master/dist/head.min.js",
+        "html5shiv.js (ie support)": "https://raw.github.com/aFarkas/html5shiv/master/src/html5shiv.js",
+        "jquery.js (library)": "http://code.jquery.com/jquery.min.js",
+        "jquery.lazyload.min.js (img loading)": "https://raw.github.com/tuupola/jquery_lazyload/master/jquery.lazyload.min.js",
+        "jquery.lettering (typography effects)": "https://raw.github.com/davatron5000/Lettering.js/master/jquery.lettering.js",
+        "jquery.unveil.min.js (img loading)": "https://raw.github.com/luis-almeida/unveil/master/jquery.unveil.min.js",
+        "knockout.js (mvc)": "http://knockoutjs.com/downloads/knockout-2.2.1.js",
+        "lazy.js (utilities)": "https://raw.github.com/dtao/lazy.js/master/lazy.min.js",
+        "lo-dash.js (utilities)": "https://raw.github.com/bestiejs/lodash/v1.3.1/dist/lodash.min.js",
+        "moment.js (time formatting)": "https://raw.github.com/timrwood/moment/2.0.0/min/moment.min.js",
+        "normalize.css (standardize css across browsers)": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+        "prefixfree.js (auto-prefix)": "https://raw.github.com/LeaVerou/prefixfree/gh-pages/prefixfree.min.js",
+        "require.js (js modules)": "http://requirejs.org/docs/release/2.1.6/minified/require.js",
+        "reset.css (reset default css)": "http://meyerweb.com/eric/tools/css/reset/reset.css",
+        "sinon.js (unit testing)": "http://sinonjs.org/releases/sinon-1.7.3.js",
+        "svg.js (svg)": "https://raw.github.com/wout/svg.js/master/dist/svg.min.js",
+        "underscore.js (utilities)": "http://underscorejs.org/underscore-min.js",
+        "validate.js (forms)": "http://rickharrison.github.io/validate.js/validate.min.js"
+    },
+    "packages":
+    {
+        "codeigniter (php framework)": "http://codeigniter.com/download.php",
+        "font awesome": "http://fortawesome.github.io/Font-Awesome/assets/font-awesome.zip",
+        "heatmap.js": "https://github.com/pa7/heatmap.js/archive/master.zip",
+        "html5_boilerplate (includes normalize, jquery, etc)": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+        "timeline.js (timelines)": "https://github.com/VeriteCo/TimelineJS/zipball/master",
+        "twitter bootstrap (boilerplate)": "http://twitter.github.io/bootstrap/assets/bootstrap.zip"
+    }
+}
